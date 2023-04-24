@@ -10,5 +10,5 @@ INSERT INTO `regions` (`uuid`, `name`, `area_quantity`) VALUES
 ('C',	'Center',	5),
 ('E',	'East',	3),
 ('N',	'Nord',	4),
-('S',	'South',	5),
+('S',	'South', 5),
 ('W',	'West',	8);
